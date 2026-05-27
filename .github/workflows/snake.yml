@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: AStorozh
           outputs: |
-            dist/github-snake.svg?color_snake=#000000&color_dots=#EBEDF0,#FFF4B8,#FFD700,#D4AF37,#B8860B
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#000000&color_dots=#161B22,#3A3000,#6B5200,#B8860B,#FFD700
+            dist/github-snake.svg?color_snake=%23000000&color_dots=%23EBEDF0,%23FFF4B8,%23FFD700,%23D4AF37,%23B8860B
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23000000&color_dots=%23161B22,%233A3000,%236B5200,%23B8860B,%23FFD700
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
