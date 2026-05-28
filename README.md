@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/output/github-snake-dark.svg">
