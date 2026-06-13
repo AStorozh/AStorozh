@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/output/github-snake.svg">
@@ -9,111 +8,139 @@
 
 <br>
 
-<h1>Hi, I'm Artemii 👋</h1>
+<h1>Hi, I'm Artemii</h1>
 
-<h3>Business Automation Engineer · Data Analytics · Python · SQL · ETL · AI Tools</h3>
+<h3>Business Automation Engineer · Data Automation · Python · SQL · Internal Tools · AI-assisted Development</h3>
 
 <p>
-  I build automation systems that turn messy business data into 
-  <b>clear reports</b>, <b>business alerts</b> and <b>dashboards</b>.
+  I build practical IT solutions for business: 
+  <b>automation systems</b>, <b>data pipelines</b>, <b>internal tools</b> and <b>AI-assisted workflows</b>.
 </p>
 
 </div>
 
 ---
 
-## 🧠 About me
+## About me
 
-I'm focused on **business process automation**, **data analytics** and **practical AI tools**.
+I'm focused on business automation, data automation, internal tools and practical AI-assisted development.
 
-I work with systems where data moves through the full cycle:
+I work with tasks where technology is connected to real business processes: collecting data, structuring it, automating routine operations, building internal tools and helping teams work with information faster.
 
-Business data → Automation → Database → Reports → Dashboards → Alerts
+My work usually combines several parts:
 
-My main goal is to build tools that reduce manual work and help businesses make decisions faster.
+Business process → Data sources → Automation logic → Database → Reports / Tools → Alerts / Decisions
+
+I’m interested not only in writing code, but also in understanding the process behind the task: what problem needs to be solved, where the bottleneck is, what data is involved and how the solution will be used in real work.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37">
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logoColor=D4AF37">
 <img src="https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=googlesheets&logoColor=D4AF37">
 <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37">
 <img src="https://img.shields.io/badge/Telegram%20Bots-000000?style=for-the-badge&logo=telegram&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37">
 <img src="https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=openai&logoColor=D4AF37">
 
 </div>
 
 ---
 
-## 🚀 What I build
+## What I work with
 
-- Automation scripts for business processes
-- ETL pipelines for marketplace and company data
+- Business process automation
+- Data collection, processing and transformation
+- PostgreSQL-based internal data systems
+- API integrations between business tools
 - Google Sheets and Excel automation
-- PostgreSQL-based reporting systems
-- Telegram bots for alerts and reports
-- AI-powered assistants and workflow tools
-- Dashboards for analytics and decision-making
+- Telegram bots for reports, alerts and internal workflows
+- Web interfaces and business websites
+- AI-assisted tools, assistants and workflow prototypes
+- Scripts for routine operations and data processing
 
 ---
 
-## 📌 Featured projects
+## Featured projects
 
 ### 1. Wildberries Analytics ETL Pipeline
 
-Automated pipeline for collecting, processing and preparing marketplace analytics data.
+Automated system for collecting, processing and preparing marketplace analytics data.
 
 Wildberries reports → Python ETL → PostgreSQL → Google Sheets → Looker Studio
 
-### 2. Google Sheets Automation Toolkit
+### 2. Business Data Automation System
 
-Scripts for automating reports, formatting tables, exporting XLSX files and sending scheduled emails.
+Internal data workflow for collecting reports, transforming data, storing it in PostgreSQL and sending information to working tools.
+
+Data sources → Python → PostgreSQL → Google Sheets / Excel → Telegram alerts
 
 ### 3. Telegram Business Alerts Bot
 
-Telegram bot that checks business data and sends useful alerts when something requires attention.
+Telegram bot for business notifications, reports and quick access to important internal information.
 
-### 4. Excel and Google Sheets Sync
+### 4. Google Sheets / Excel Automation
 
-Excel automation that allows users to update data from Google Sheets with one click.
+Automation scripts for updating reports, formatting tables, exporting files and reducing manual work with business data.
 
 ### 5. Portfolio AI Assistant
 
-AI assistant for a personal portfolio website that can answer questions and analyze vacancies.
+AI assistant for a personal portfolio website that can answer questions, explain my experience and help analyze job vacancies.
 
 ---
 
-## ⚡ Main focus
+## Main focus
 
 <div align="center">
 
-### Data Automation · Business Analytics · AI Tools
+### Business Automation · Data Systems · Internal Tools · AI-assisted Development
 
 </div>
 
 I like building practical systems that:
 
-- save time
-- reduce routine work
-- clean and structure data
-- automate reporting
+- reduce manual work
+- connect business tools
+- structure and process data
+- automate routine workflows
+- improve internal visibility
 - send useful notifications
 - help people make decisions faster
+- turn ideas into working prototypes
 
 ---
 
-## 📫 Contacts
+## AI in my workflow
+
+I use AI tools as part of my development process, not as a replacement for understanding the task.
+
+Main tools:
+
+- ChatGPT
+- Cursor
+- Claude
+- GitHub Copilot
+- OpenAI Codex
+
+I use them for code analysis, debugging, documentation research, prototype planning, refactoring ideas and faster learning of new tools, APIs and technologies.
+
+---
+
+## Contacts
 
 <div align="center">
 
+Website: <a href="https://asto-portfolio.ru">asto-portfolio.ru</a>  
 GitHub: <a href="https://github.com/AStorozh">AStorozh</a>  
+Telegram: <a href="https://t.me/artemiistorozhevskikh">@artemiistorozhevskikh</a>  
 Email: <a href="mailto:astorozhevskikh@gmail.com">astorozhevskikh@gmail.com</a>
 
 </div>
