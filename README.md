@@ -6,141 +6,53 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AStorozh/AStorozh/output/github-snake.svg">
 </picture>
 
-<br>
-
-<h1>Hi, I'm Artemii</h1>
-
-<h3>Business Automation Engineer · Data Automation · Python · SQL · Internal Tools · AI-assisted Development</h3>
-
-<p>
-  I build practical IT solutions for business: 
-  <b>automation systems</b>, <b>data pipelines</b>, <b>internal tools</b> and <b>AI-assisted workflows</b>.
-</p>
-
 </div>
 
----
+# Artemii Storozhevskikh
 
-## About me
+**Business Automation & AI Integration Engineer**
 
-I'm focused on business automation, data automation, internal tools and practical AI-assisted development.
+I build the unglamorous systems that take manual work out of a business: scheduled data collection, ETL into Postgres, reports that assemble themselves, bots that speak up when something breaks.
 
-I work with tasks where technology is connected to real business processes: collecting data, structuring it, automating routine operations, building internal tools and helping teams work with information faster.
-
-My work usually combines several parts:
-
-Business process → Data sources → Automation logic → Database → Reports / Tools → Alerts / Decisions
-
-I’m interested not only in writing code, but also in understanding the process behind the task: what problem needs to be solved, where the bottleneck is, what data is involved and how the solution will be used in real work.
+Most of my projects start the same way. Someone is copying numbers between a marketplace dashboard, a spreadsheet and a chat, by hand, every morning. I replace that loop with something that runs on a schedule and reports its own failures.
 
 ---
 
-## Tech Stack
+## Selected work
 
-<div align="center">
+**Marketplace analytics pipeline.**
+Scheduled collection of every seller report from a Wildberries account into PostgreSQL, then out to Google Sheets as finished pivot tables. Runs unattended. The orchestration is multiprocess, so one scraper hitting a wall doesn't take down the rest of the run.
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=googlesheets&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/Telegram%20Bots-000000?style=for-the-badge&logo=telegram&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37">
-<img src="https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=openai&logoColor=D4AF37">
+**Error collection for that pipeline.**
+Once it ran unattended, I needed it to tell me when it broke. I wrote a layer that overrides `builtins.print` and the system `excepthook`, normalizes any traceback into one short readable line, and writes it to a shared Postgres table. A Telegram bot watches the table and pushes each new row to subscribers in real time. Small piece of code, but it changed how fast I could debug everything else.
 
-</div>
+**AI replies to customer reviews.**
+Claude Haiku 4.5 answers complaints; templates handle the straightforward positive ones. Structured JSON output, prompt caching and token accounting keep the cost per review predictable. Anything ambiguous is deliberately *not* sent, it's parked for a human. Working out what the model should refuse to do turned out to be the real design problem, not the prompting.
 
----
+**HIREFLOW, an AI job search service.**
+My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
 
-## What I work with
+**My portfolio site, [asto-portfolio.ru](https://asto-portfolio.ru).**
+Also mine end to end. Next.js 16 and React 19 over Postgres with Drizzle. Its own CMS admin, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign tracking, which means no third-party scripts and no cookie banner. Three languages.
 
-- Business process automation
-- Data collection, processing and transformation
-- PostgreSQL-based internal data systems
-- API integrations between business tools
-- Google Sheets and Excel automation
-- Telegram bots for reports, alerts and internal workflows
-- Web interfaces and business websites
-- AI-assisted tools, assistants and workflow prototypes
-- Scripts for routine operations and data processing
+Alongside these: Telegram bots for shift tracking and report delivery, competitor price collection, and a handful of Google Sheets and Excel automations that quietly saved people a few hours a week.
 
 ---
 
-## Featured projects
+## Tools
 
-### 1. Wildberries Analytics ETL Pipeline
-
-Automated system for collecting, processing and preparing marketplace analytics data.
-
-Wildberries reports → Python ETL → PostgreSQL → Google Sheets → Looker Studio
-
-### 2. Business Data Automation System
-
-Internal data workflow for collecting reports, transforming data, storing it in PostgreSQL and sending information to working tools.
-
-Data sources → Python → PostgreSQL → Google Sheets / Excel → Telegram alerts
-
-### 3. Telegram Business Alerts Bot
-
-Telegram bot for business notifications, reports and quick access to important internal information.
-
-### 4. Google Sheets / Excel Automation
-
-Automation scripts for updating reports, formatting tables, exporting files and reducing manual work with business data.
-
-### 5. Portfolio AI Assistant
-
-AI assistant for a personal portfolio website that can answer questions, explain my experience and help analyze job vacancies.
-
----
-
-## Main focus
-
-<div align="center">
-
-### Business Automation · Data Systems · Internal Tools · AI-assisted Development
-
-</div>
-
-I like building practical systems that:
-
-- reduce manual work
-- connect business tools
-- structure and process data
-- automate routine workflows
-- improve internal visibility
-- send useful notifications
-- help people make decisions faster
-- turn ideas into working prototypes
-
----
+Python and PostgreSQL are where I'm most fluent: pandas, Selenium, psycopg2, requests, plus the Google Sheets and Telegram Bot APIs. On the web, TypeScript with Next.js and React. For LLM work, the OpenAI and Anthropic APIs, with function calling, structured output, prompt caching and token cost accounting. Day to day: Git, Linux, SSH, Docker.
 
 ## AI in my workflow
 
-I use AI tools as part of my development process, not as a replacement for understanding the task.
+I use Claude Code, Cursor and ChatGPT while building, and I also ship LLM features as products. The distinction matters to me: an assistant speeds up the typing, it doesn't choose the architecture and it doesn't excuse me from understanding what shipped.
 
-Main tools:
+## Where I am
 
-- ChatGPT
-- Cursor
-- Claude
-- GitHub Copilot
-- OpenAI Codex
+Fourth-year Product Management student at IThub College. About a year of automation and data work for a trading company, and roughly eighteen months of freelance before that. My English is a work in progress: I read it comfortably, speaking it is the part I'm still building.
 
-I use them for code analysis, debugging, documentation research, prototype planning, refactoring ideas and faster learning of new tools, APIs and technologies.
+I'm looking for Business Automation or Data Automation work, ideally somewhere I own a whole loop rather than isolated tickets.
 
----
+## Contact
 
-## Contacts
-
-<div align="center">
-
-Website: <a href="https://asto-portfolio.ru">asto-portfolio.ru</a>  
-GitHub: <a href="https://github.com/AStorozh">AStorozh</a>  
-Telegram: <a href="https://t.me/artemiistorozhevskikh">@artemiistorozhevskikh</a>  
-Email: <a href="mailto:astorozhevskikh@gmail.com">astorozhevskikh@gmail.com</a>
-
-</div>
+[asto-portfolio.ru](https://asto-portfolio.ru) · [Telegram](https://t.me/artemiistorozhevskikh) · [LinkedIn](https://www.linkedin.com/in/artemii-storozhevskikh/) · astorozhevskikh@gmail.com
