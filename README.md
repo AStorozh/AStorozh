@@ -9,7 +9,7 @@
 
 </div>
 
-# Artemii Storozhevskikh      ASTO
+# Artemii Storozhevskikh
 
 **Business Automation & AI Integration Engineer**
 
