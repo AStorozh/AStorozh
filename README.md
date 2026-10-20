@@ -21,41 +21,45 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 ## Pet projects
 
-<img align="left" width="88" height="88" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="110" height="110" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-**Sena**
+#### Sena
 
-[Production](#) · [Repository](#)
+[Production](#)<br>
+[Repository](#)
 
 <br clear="left">
 
 A personal AI assistant that lives on my MacBook and is reachable from Telegram, its own Android app, and by voice. It controls my computer, browser and code across my other projects, remembers context about me, picks up new skills from its own tasks, and recognizes the people around it by voice.
 
-<img align="left" width="88" height="88" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="110" height="110" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-**Luma**
+#### Luma
 
-[Production](#) · [Repository](#)
+[Production](#)<br>
+[Repository](#)
 
 <br clear="left">
 
 A personal operating system for life: habits, projects, calendar, daily tasks, time tracking, analytics and an AI advisor, all in one place. Runs as a native Mac app (and on mobile), with every bit of data staying in a local embedded database — nothing leaves the machine.
 
-<img align="left" width="88" height="88" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="110" height="110" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-**HIREFLOW**
+#### HIREFLOW
 
-[Production](#) · [Repository](#)
+[Production](#)<br>
+[Repository](#)
 
 <br clear="left">
 
 My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
 
-<img align="left" width="88" height="88" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="110" height="110" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-**asto-portfolio.ru**
+#### asto-portfolio.ru
 
-[Production](#) · [Repository](#)
+[Production](#)<br>
+[Repository](#)
 
 <br clear="left">
 
