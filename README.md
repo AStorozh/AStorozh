@@ -2,9 +2,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo/asto-logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo/asto-logo-light.svg">
-  <img alt="asto logo animation" src="assets/logo/asto-logo-light.svg" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-light.svg">
+  <img alt="asto logo animation" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-light.svg" width="480">
 </picture>
 
 </div>
