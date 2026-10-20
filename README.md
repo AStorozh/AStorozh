@@ -29,14 +29,14 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="230" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=3">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=4">
 
-### Sena
+### &nbsp;&nbsp;&nbsp;&nbsp;Sena
 
-*(Python · Swift · Android · OpenAI/Claude)*
+&nbsp;&nbsp;&nbsp;&nbsp;*(Python · Swift · Android · OpenAI/Claude)*
 
-[Production](#)<br>
-[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
 <br clear="left">
 <br>
@@ -46,14 +46,14 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 </div>
 
-<img align="left" width="230" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=3">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=4">
 
-### Luma
+### &nbsp;&nbsp;&nbsp;&nbsp;Luma
 
-*(Next.js · TypeScript · Electron · PGlite/Postgres)*
+&nbsp;&nbsp;&nbsp;&nbsp;*(Next.js · TypeScript · Electron · PGlite/Postgres)*
 
-[Production](#)<br>
-[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
 <br clear="left">
 <br>
@@ -63,14 +63,14 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 </div>
 
-<img align="left" width="230" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=3">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=4">
 
-### HIREFLOW
+### &nbsp;&nbsp;&nbsp;&nbsp;HIREFLOW
 
-*(FastAPI · PostgreSQL · SQLAlchemy · OpenAI/Claude)*
+&nbsp;&nbsp;&nbsp;&nbsp;*(FastAPI · PostgreSQL · SQLAlchemy · OpenAI/Claude)*
 
-[Production](#)<br>
-[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
 <br clear="left">
 <br>
@@ -80,14 +80,14 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 </div>
 
-<img align="left" width="230" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=3">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=4">
 
-### asto-portfolio.ru
+### &nbsp;&nbsp;&nbsp;&nbsp;asto-portfolio.ru
 
-*(Next.js · React · PostgreSQL · Drizzle)*
+&nbsp;&nbsp;&nbsp;&nbsp;*(Next.js · React · PostgreSQL · Drizzle)*
 
-[Production](#)<br>
-[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
 <br clear="left">
 <br>
@@ -159,9 +159,9 @@ I'm looking for Business Automation, Data Automation or AI Integration work, ide
 
 ### Contact
 
-<a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg?v=2"></a>&nbsp;&nbsp;
-<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg?v=2"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg?v=2"></a>&nbsp;&nbsp;
-<a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg?v=2"></a>
+<a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg?v=3"></a>&nbsp;&nbsp;
+<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg?v=3"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg?v=3"></a>&nbsp;&nbsp;
+<a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg?v=3"></a>
 
 </div>
