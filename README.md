@@ -31,7 +31,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 <img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-#### Sena
+### Sena
 
 *(Python · Swift · Android · OpenAI/Claude)*
 
@@ -39,8 +39,6 @@ Close to four years in the industry — over a year and a half in a trading comp
 [Repository](#)
 
 <br clear="left">
-
-<sub>&nbsp;</sub>
 
 <div align="justify">
 
@@ -50,7 +48,7 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 <img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-#### Luma
+### Luma
 
 *(Next.js · TypeScript · Electron · PGlite/Postgres)*
 
@@ -58,8 +56,6 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 [Repository](#)
 
 <br clear="left">
-
-<sub>&nbsp;</sub>
 
 <div align="justify">
 
@@ -69,7 +65,7 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 <img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-#### HIREFLOW
+### HIREFLOW
 
 *(FastAPI · PostgreSQL · SQLAlchemy · OpenAI/Claude)*
 
@@ -77,8 +73,6 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 [Repository](#)
 
 <br clear="left">
-
-<sub>&nbsp;</sub>
 
 <div align="justify">
 
@@ -88,7 +82,7 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 <img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-#### asto-portfolio.ru
+### asto-portfolio.ru
 
 *(Next.js · React · PostgreSQL · Drizzle)*
 
@@ -96,8 +90,6 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 [Repository](#)
 
 <br clear="left">
-
-<sub>&nbsp;</sub>
 
 <div align="justify">
 
