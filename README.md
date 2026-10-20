@@ -97,6 +97,8 @@ Python and PostgreSQL are where I'm most fluent: pandas, Selenium, psycopg2, req
 
 I use Claude Code, Cursor and ChatGPT while building, and I also ship LLM features as products. The distinction matters to me: an assistant speeds up the typing, it doesn't choose the architecture and it doesn't excuse me from understanding what shipped.
 
+---
+
 <div align="center">
 
 ## Where I am
@@ -113,6 +115,9 @@ I'm looking for Business Automation, Data Automation or AI Integration work, ide
 
 ## Contact
 
-[asto-portfolio.ru](https://asto-portfolio.ru) · [Telegram](https://t.me/artemiistorozhevskikh) · [LinkedIn](https://www.linkedin.com/in/artemii-storozhevskikh/) · [astorozhevskikh@gmail.com](mailto:astorozhevskikh@gmail.com)
+<a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg"></a>&nbsp;&nbsp;
+<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg"></a>&nbsp;&nbsp;
+<a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg"></a>
 
 </div>
