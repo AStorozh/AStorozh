@@ -2,16 +2,12 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-light.svg">
-  <img alt="asto logo animation" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-light.svg" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/combined-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/combined-black.svg">
+  <img alt="asto — Artemii Storozhevskikh" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/combined-black.svg" width="480">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/name-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/name-black.svg">
-  <img alt="Artemii Storozhevskikh" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/name-black.svg" width="620">
-</picture>
+---
 
 **Business Automation & AI Integration Engineer**
 
