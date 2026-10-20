@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo/asto-logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/logo/asto-logo-light.svg">
-  <img alt="asto logo animation" src="assets/logo/asto-logo-light.svg" width="480">
+  <img alt="asto logo animation" src="assets/logo/asto-logo-light.svg" width="780">
 </picture>
 
 </div>
