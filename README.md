@@ -29,7 +29,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=2">
 
 ### Sena
 
@@ -46,7 +46,7 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 </div>
 
-<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=2">
 
 ### Luma
 
@@ -63,7 +63,7 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 </div>
 
-<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=2">
 
 ### HIREFLOW
 
@@ -80,7 +80,7 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 </div>
 
-<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=2">
 
 ### asto-portfolio.ru
 
@@ -159,9 +159,9 @@ I'm looking for Business Automation, Data Automation or AI Integration work, ide
 
 ### Contact
 
-<a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg"></a>&nbsp;&nbsp;
-<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg"></a>&nbsp;&nbsp;
-<a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg"></a>
+<a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg?v=2"></a>&nbsp;&nbsp;
+<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg?v=2"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg?v=2"></a>&nbsp;&nbsp;
+<a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg?v=2"></a>
 
 </div>
