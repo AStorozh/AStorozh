@@ -29,14 +29,18 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
 #### Sena
+
+*(Python · Swift · Android · OpenAI/Claude)*
 
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left"><br>
+<br clear="left">
+
+<sub>&nbsp;</sub>
 
 <div align="justify">
 
@@ -44,14 +48,18 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 </div>
 
-<img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
 #### Luma
+
+*(Next.js · TypeScript · Electron · PGlite/Postgres)*
 
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left"><br>
+<br clear="left">
+
+<sub>&nbsp;</sub>
 
 <div align="justify">
 
@@ -59,14 +67,18 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 </div>
 
-<img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
 #### HIREFLOW
+
+*(FastAPI · PostgreSQL · SQLAlchemy · OpenAI/Claude)*
 
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left"><br>
+<br clear="left">
+
+<sub>&nbsp;</sub>
 
 <div align="justify">
 
@@ -74,14 +86,18 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 </div>
 
-<img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
+<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
 #### asto-portfolio.ru
+
+*(Next.js · React · PostgreSQL · Drizzle)*
 
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left"><br>
+<br clear="left">
+
+<sub>&nbsp;</sub>
 
 <div align="justify">
 
