@@ -19,7 +19,11 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 ---
 
+<div align="center">
+
 ## Pet projects
+
+</div>
 
 <img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
@@ -67,7 +71,11 @@ Built end to end, and the place where I get to do things properly rather than qu
 
 ---
 
+<div align="center">
+
 ## Experience
+
+</div>
 
 ### Trading company
 
@@ -79,18 +87,32 @@ More than two years of independent client work alongside everything else: an e-c
 
 ---
 
+<div align="center">
+
 ## How I work
+
+</div>
 
 Python and PostgreSQL are where I'm most fluent: pandas, Selenium, psycopg2, requests, FastAPI, plus the Google Sheets and Telegram Bot APIs. On the web, TypeScript with Next.js and React. For LLM work, the OpenAI and Anthropic APIs — function calling, structured output, prompt caching, token cost accounting and agent orchestration. Infrastructure day to day: Git, Linux, SSH, Docker, my own VPS.
 
 I use Claude Code, Cursor and ChatGPT while building, and I also ship LLM features as products. The distinction matters to me: an assistant speeds up the typing, it doesn't choose the architecture and it doesn't excuse me from understanding what shipped.
 
+<div align="center">
+
 ## Where I am
+
+</div>
 
 Fourth-year Product Management student at IThub College, which is a useful second lens: most of my work starts as a business problem rather than a ticket. My English is a work in progress — I read it comfortably, speaking it is the part I'm still building.
 
 I'm looking for Business Automation, Data Automation or AI Integration work, ideally somewhere I own a whole loop rather than isolated tasks.
 
+---
+
+<div align="center">
+
 ## Contact
 
-[asto-portfolio.ru](https://asto-portfolio.ru) · [Telegram](https://t.me/artemiistorozhevskikh) · [LinkedIn](https://www.linkedin.com/in/artemii-storozhevskikh/) · astorozhevskikh@gmail.com
+[asto-portfolio.ru](https://asto-portfolio.ru) · [Telegram](https://t.me/artemiistorozhevskikh) · [LinkedIn](https://www.linkedin.com/in/artemii-storozhevskikh/) · [astorozhevskikh@gmail.com](mailto:astorozhevskikh@gmail.com)
+
+</div>
