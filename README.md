@@ -21,13 +21,13 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 <div align="center">
 
-## Pet projects
+### Pet projects
 
 </div>
 
 <img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-### Sena
+#### Sena
 
 [Production](#)<br>
 [Repository](#)
@@ -38,7 +38,7 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 <img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-### Luma
+#### Luma
 
 [Production](#)<br>
 [Repository](#)
@@ -49,7 +49,7 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 <img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-### HIREFLOW
+#### HIREFLOW
 
 [Production](#)<br>
 [Repository](#)
@@ -60,7 +60,7 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 <img align="left" width="130" height="130" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/placeholder.svg">
 
-### asto-portfolio.ru
+#### asto-portfolio.ru
 
 [Production](#)<br>
 [Repository](#)
@@ -73,15 +73,15 @@ Built end to end, and the place where I get to do things properly rather than qu
 
 <div align="center">
 
-## Experience
+### Experience
 
 </div>
 
-### Trading company
+#### Trading company
 
 Over a year and a half building the internal data loop end to end: every seller report pulled from the marketplace on a schedule, normalized into PostgreSQL, and published as pivot tables and dashboards — replacing a daily routine of manual downloads and copy-paste. On top of that, an LLM answering customer complaints while templates handled the simple positive ones, and a self-reporting error layer that turned any crash into one readable line in a shared table with a Telegram alert, so I knew something broke before anyone had to tell me.
 
-### Freelance
+#### Freelance
 
 More than two years of independent client work alongside everything else: an e-commerce storefront and admin panel on Next.js, Telegram bots for shift tracking, reporting and alerting, competitor price monitoring, and a number of Google Sheets and Excel automations that quietly gave people back a few hours a week.
 
@@ -89,7 +89,7 @@ More than two years of independent client work alongside everything else: an e-c
 
 <div align="center">
 
-## How I work
+### How I work
 
 </div>
 
@@ -101,7 +101,7 @@ I use Claude Code, Cursor and ChatGPT while building, and I also ship LLM featur
 
 <div align="center">
 
-## Where I am
+### Where I am
 
 </div>
 
@@ -113,7 +113,7 @@ I'm looking for Business Automation, Data Automation or AI Integration work, ide
 
 <div align="center">
 
-## Contact
+### Contact
 
 <a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg"></a>&nbsp;&nbsp;
