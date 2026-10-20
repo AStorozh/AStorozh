@@ -7,7 +7,11 @@
   <img alt="asto logo animation" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-light.svg" width="480">
 </picture>
 
-# Artemii Storozhevskikh
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/name-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/name-black.svg">
+  <img alt="Artemii Storozhevskikh" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/name-black.svg" width="620">
+</picture>
 
 **Business Automation & AI Integration Engineer**
 
