@@ -29,7 +29,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
 
 ### Sena
 
@@ -46,7 +46,7 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
 
 ### Luma
 
@@ -63,7 +63,7 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
 
 ### HIREFLOW
 
@@ -80,7 +80,7 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
+<img align="left" width="160" height="160" hspace="30" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
 
 ### asto-portfolio.ru
 
