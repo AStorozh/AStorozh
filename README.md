@@ -7,11 +7,11 @@
   <img alt="asto logo animation" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/logo/asto-logo-light.svg" width="480">
 </picture>
 
-</div>
-
 # Artemii Storozhevskikh
 
 **Business Automation & AI Integration Engineer**
+
+</div>
 
 I design systems where business processes, data and AI meet: internal platforms that collect and structure information, automation that takes manual work out of daily operations, and LLM-driven services that make decisions inside a process rather than beside it.
 
@@ -19,35 +19,35 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 ---
 
-## Selected work
+## Pet projects
 
-### My portfolio platform — [asto-portfolio.ru](https://asto-portfolio.ru)
+### Sena
 
-Built end to end, and the place where I get to do things properly rather than quickly. Next.js 16 and React 19 over PostgreSQL with Drizzle, a CMS admin I wrote myself, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign attribution — no third-party scripts and no cookie banner, because the data never leaves my own database. Three languages, deployed on my own VPS behind nginx and PM2.
+A personal AI assistant that lives on my MacBook and is reachable from Telegram, its own Android app, and by voice. It controls my computer, browser and code across my other projects, remembers context about me, picks up new skills from its own tasks, and recognizes the people around it by voice.
 
-### IA — a personal network of AI agents *(in development)*
+### Luma
 
-Not a single assistant but a set of cooperating agents with shared memory, each owning a part of the work. It runs on its own database with persistent long-term memory, continuous voice capture and speech recognition, and a defined character: it holds opinions and pushes back instead of answering neutrally. Through a tool layer the agents reach the browser, the desktop, the phone and connected accounts, and hand tasks to each other depending on what is being asked.
+A personal operating system for life: habits, projects, calendar, daily tasks, time tracking, analytics and an AI advisor, all in one place. Runs as a native Mac app (and on mobile), with every bit of data staying in a local embedded database — nothing leaves the machine.
 
-The interesting problems here are not the model calls. They are orchestration between agents, deciding what is worth remembering and what should be forgotten, keeping an always-on system from becoming noisy or expensive, and giving it enough judgement to act without supervision. This is where most of my own time goes right now.
-
-### Marketplace analytics platform
-
-A full internal data loop for a trading company: every seller report pulled from the marketplace on a schedule, normalized into PostgreSQL, and published as finished pivot tables in Google Sheets and dashboards. Multiprocess orchestration with a shared logging protocol, so one scraper hitting a wall doesn't take down the run. It replaced a daily routine of manual downloads and copy-paste entirely.
-
-### AI responses to customer reviews
-
-A language model answers complaints while templates handle the straightforward positive ones. Structured JSON output, prompt caching and token accounting keep the cost per review predictable at volume. Anything ambiguous is deliberately *not* sent — it is parked for a human. Deciding what the model must refuse to do turned out to be the real design work, well ahead of the prompting.
-
-### Self-reporting error layer
-
-Once the data platform ran unattended, it needed to tell me when it broke. I wrote a layer that overrides `builtins.print` and the system `excepthook`, normalizes any traceback into one short readable line and writes it to a shared Postgres table, with a Telegram bot pushing each new row to subscribers in real time. A small piece of code that changed how fast I could debug everything around it.
-
-### HIREFLOW — an AI job search service
+### HIREFLOW
 
 My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
 
-Alongside these: an e-commerce storefront and admin panel on Next.js, Telegram bots for shift tracking, reporting and alerting, competitor price monitoring, and a number of Google Sheets and Excel automations that quietly gave people back a few hours a week.
+### [asto-portfolio.ru](https://asto-portfolio.ru)
+
+Built end to end, and the place where I get to do things properly rather than quickly. Next.js 16 and React 19 over PostgreSQL with Drizzle, a CMS admin I wrote myself, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign attribution — no third-party scripts and no cookie banner, because the data never leaves my own database. Three languages, deployed on my own VPS behind nginx and PM2.
+
+---
+
+## Experience
+
+### Trading company
+
+Over a year and a half building the internal data loop end to end: every seller report pulled from the marketplace on a schedule, normalized into PostgreSQL, and published as pivot tables and dashboards — replacing a daily routine of manual downloads and copy-paste. On top of that, an LLM answering customer complaints while templates handled the simple positive ones, and a self-reporting error layer that turned any crash into one readable line in a shared table with a Telegram alert, so I knew something broke before anyone had to tell me.
+
+### Freelance
+
+More than two years of independent client work alongside everything else: an e-commerce storefront and admin panel on Next.js, Telegram bots for shift tracking, reporting and alerting, competitor price monitoring, and a number of Google Sheets and Excel automations that quietly gave people back a few hours a week.
 
 ---
 
