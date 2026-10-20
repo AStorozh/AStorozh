@@ -36,7 +36,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left">
+<br clear="left"><br>
 
 <div align="justify">
 
@@ -51,7 +51,7 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left">
+<br clear="left"><br>
 
 <div align="justify">
 
@@ -66,7 +66,7 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left">
+<br clear="left"><br>
 
 <div align="justify">
 
@@ -81,7 +81,7 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 [Production](#)<br>
 [Repository](#)
 
-<br clear="left">
+<br clear="left"><br>
 
 <div align="justify">
 
