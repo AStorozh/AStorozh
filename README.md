@@ -39,7 +39,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 [Repository](#)
 
 <br clear="left">
-
+<br>
 <div align="justify">
 
 A personal AI assistant that lives on my MacBook and is reachable from Telegram, its own Android app, and by voice. It controls my computer, browser and code across my other projects, remembers context about me, picks up new skills from its own tasks, and recognizes the people around it by voice.
@@ -56,7 +56,7 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 [Repository](#)
 
 <br clear="left">
-
+<br>
 <div align="justify">
 
 A personal operating system for life: habits, projects, calendar, daily tasks, time tracking, analytics and an AI advisor, all in one place. Runs as a native Mac app (and on mobile), with every bit of data staying in a local embedded database — nothing leaves the machine.
@@ -73,7 +73,7 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 [Repository](#)
 
 <br clear="left">
-
+<br>
 <div align="justify">
 
 My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
@@ -90,7 +90,7 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 [Repository](#)
 
 <br clear="left">
-
+<br>
 <div align="justify">
 
 Built end to end, and the place where I get to do things properly rather than quickly. Next.js 16 and React 19 over PostgreSQL with Drizzle, a CMS admin I wrote myself, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign attribution — no third-party scripts and no cookie banner, because the data never leaves my own database. Three languages, deployed on my own VPS behind nginx and PM2.
