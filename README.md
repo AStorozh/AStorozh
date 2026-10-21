@@ -29,7 +29,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=4">
+<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=5">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Sena
 
@@ -38,15 +38,16 @@ Close to four years in the industry — over a year and a half in a trading comp
 &nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
-<br clear="left">
-<br>
 <div align="justify">
 
-A personal AI assistant that lives on my MacBook and is reachable from Telegram, its own Android app, and by voice. It controls my computer, browser and code across my other projects, remembers context about me, picks up new skills from its own tasks, and recognizes the people around it by voice.
+&nbsp;&nbsp;&nbsp;&nbsp;A personal AI assistant that lives on my MacBook and is reachable from Telegram, its own Android app, and by voice. It controls my computer, browser and code across my other projects, remembers context about me, picks up new skills from its own tasks, and recognizes the people around it by voice.
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=4">
+<br clear="left">
+<br>
+
+<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=5">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Luma
 
@@ -55,15 +56,16 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 &nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
-<br clear="left">
-<br>
 <div align="justify">
 
-A personal operating system for life: habits, projects, calendar, daily tasks, time tracking, analytics and an AI advisor, all in one place. Runs as a native Mac app (and on mobile), with every bit of data staying in a local embedded database — nothing leaves the machine.
+&nbsp;&nbsp;&nbsp;&nbsp;A personal operating system for life: habits, projects, calendar, daily tasks, time tracking, analytics and an AI advisor, all in one place. Runs as a native Mac app (and on mobile), with every bit of data staying in a local embedded database — nothing leaves the machine.
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=4">
+<br clear="left">
+<br>
+
+<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=5">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;HIREFLOW
 
@@ -72,15 +74,16 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 &nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
-<br clear="left">
-<br>
 <div align="justify">
 
-My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
+&nbsp;&nbsp;&nbsp;&nbsp;My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
 
 </div>
 
-<img align="left" width="160" height="160" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=4">
+<br clear="left">
+<br>
+
+<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=5">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;asto-portfolio.ru
 
@@ -89,13 +92,14 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 &nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
 
-<br clear="left">
-<br>
 <div align="justify">
 
-Built end to end, and the place where I get to do things properly rather than quickly. Next.js 16 and React 19 over PostgreSQL with Drizzle, a CMS admin I wrote myself, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign attribution — no third-party scripts and no cookie banner, because the data never leaves my own database. Three languages, deployed on my own VPS behind nginx and PM2.
+&nbsp;&nbsp;&nbsp;&nbsp;Built end to end, and the place where I get to do things properly rather than quickly. Next.js 16 and React 19 over PostgreSQL with Drizzle, a CMS admin I wrote myself, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign attribution — no third-party scripts and no cookie banner, because the data never leaves my own database. Three languages, deployed on my own VPS behind nginx and PM2.
 
 </div>
+
+<br clear="left">
+<br>
 
 ---
 

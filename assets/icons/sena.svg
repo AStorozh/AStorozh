@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
-  <rect width="160" height="160" fill="#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="300" viewBox="0 0 160 300">
+  <rect width="160" height="300" fill="#000000"/>
   <g transform="translate(14.08,9.25) scale(0.1701)" fill="#ffffff">
     <path d="M318 190 C330 170 380 160 400 170 C410 178 395 215 385 235 C375 248 360 240 345 228 C325 212 305 200 318 190 Z"/>
     <path d="M430 178 C455 170 500 185 512 202 C520 215 470 238 440 250 C422 256 415 240 418 220 C420 200 418 184 430 178 Z"/>
