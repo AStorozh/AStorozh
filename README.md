@@ -29,7 +29,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=6">
+<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=7">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Sena
 
@@ -43,7 +43,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 <br clear="left">
 
-<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=6">
+<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=7">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Luma
 
@@ -57,7 +57,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 <br clear="left">
 
-<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=6">
+<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=7">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;HIREFLOW
 
@@ -71,7 +71,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 <br clear="left">
 
-<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=6">
+<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=7">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;asto-portfolio.ru
 
