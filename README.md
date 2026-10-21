@@ -29,7 +29,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=7">
+<img align="left" width="160" height="780" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Sena
 
@@ -41,10 +41,6 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<br clear="left">
-
-<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=7">
-
 ### &nbsp;&nbsp;&nbsp;&nbsp;Luma
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Production](#) · [Repository](#)
@@ -55,10 +51,6 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<br clear="left">
-
-<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=7">
-
 ### &nbsp;&nbsp;&nbsp;&nbsp;HIREFLOW
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Production](#) · [Repository](#)
@@ -68,10 +60,6 @@ Close to four years in the industry — over a year and a half in a trading comp
 &nbsp;&nbsp;&nbsp;&nbsp;My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, scores vacancies pulled from hh.ru against it, and drafts the cover letter for the ones worth applying to.
 
 </div>
-
-<br clear="left">
-
-<img align="left" width="160" height="240" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=8">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;asto-portfolio.ru
 
