@@ -30,8 +30,8 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg?v=11">
-  <img align="left" width="110" height="950" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg?v=11">
+  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg?v=12">
+  <img align="left" width="110" height="792" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg?v=12">
 </picture>
 
 ### Sena
