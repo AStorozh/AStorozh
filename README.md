@@ -30,13 +30,15 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg?v=13">
-  <img align="left" width="110" height="850" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/pet-projects-combined.svg?v=13">
+  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
+  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
 </picture>
 
 ### Sena
 
 [Production](#) · [Repository](#)
+
+<br clear="left">
 
 <div align="justify">
 
@@ -44,9 +46,16 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 
 </div>
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
+  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
+</picture>
+
 ### Luma
 
 [Production](#) · [Repository](#)
+
+<br clear="left">
 
 <div align="justify">
 
@@ -54,9 +63,16 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 
 </div>
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
+  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
+</picture>
+
 ### HIREFLOW
 
 [Production](#) · [Repository](#)
+
+<br clear="left">
 
 <div align="justify">
 
@@ -64,17 +80,22 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 
 </div>
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
+  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
+</picture>
+
 ### asto-portfolio.ru
 
 [Production](#) · [Repository](#)
+
+<br clear="left">
 
 <div align="justify">
 
 Built end to end, and the place where I get to do things properly rather than quickly. Next.js 16 and React 19 over PostgreSQL with Drizzle, a CMS admin I wrote myself, a voice-capable AI assistant on the OpenAI Realtime API that answers questions about my experience, and self-hosted analytics with per-link campaign attribution — no third-party scripts and no cookie banner, because the data never leaves my own database. Three languages, deployed on my own VPS behind nginx and PM2.
 
 </div>
-
-<br clear="left">
 
 ---
 
