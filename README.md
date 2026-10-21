@@ -71,7 +71,7 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 <br clear="left">
 
-<img align="left" width="160" height="180" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=7">
+<img align="left" width="160" height="240" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=8">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;asto-portfolio.ru
 
