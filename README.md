@@ -29,14 +29,11 @@ Close to four years in the industry — over a year and a half in a trading comp
 
 </div>
 
-<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=5">
+<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg?v=6">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Sena
 
-&nbsp;&nbsp;&nbsp;&nbsp;*(Python · Swift · Android · OpenAI/Claude)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#) · [Repository](#)
 
 <div align="justify">
 
@@ -45,16 +42,12 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <br clear="left">
-<br>
 
-<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=5">
+<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg?v=6">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Luma
 
-&nbsp;&nbsp;&nbsp;&nbsp;*(Next.js · TypeScript · Electron · PGlite/Postgres)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#) · [Repository](#)
 
 <div align="justify">
 
@@ -63,16 +56,12 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <br clear="left">
-<br>
 
-<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=5">
+<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg?v=6">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;HIREFLOW
 
-&nbsp;&nbsp;&nbsp;&nbsp;*(FastAPI · PostgreSQL · SQLAlchemy · OpenAI/Claude)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#) · [Repository](#)
 
 <div align="justify">
 
@@ -81,16 +70,12 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <br clear="left">
-<br>
 
-<img align="left" width="160" height="300" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=5">
+<img align="left" width="160" height="220" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg?v=6">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;asto-portfolio.ru
 
-&nbsp;&nbsp;&nbsp;&nbsp;*(Next.js · React · PostgreSQL · Drizzle)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Production](#)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Repository](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[Production](#) · [Repository](#)
 
 <div align="justify">
 
@@ -99,7 +84,6 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <br clear="left">
-<br>
 
 ---
 
