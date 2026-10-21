@@ -30,8 +30,9 @@ Close to four years in the industry — over a year and a half in a trading comp
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
-  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena-black.svg">
+  <img align="left" width="70" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/sena-black.svg">
 </picture>
 
 ### Sena
@@ -47,8 +48,9 @@ A personal AI assistant that lives on my MacBook and is reachable from Telegram,
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
-  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma-black.svg">
+  <img align="left" width="70" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/luma-black.svg">
 </picture>
 
 ### Luma
@@ -64,8 +66,9 @@ A personal operating system for life: habits, projects, calendar, daily tasks, t
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
-  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow-black.svg">
+  <img align="left" width="70" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/hireflow-black.svg">
 </picture>
 
 ### HIREFLOW
@@ -81,8 +84,9 @@ My own project. FastAPI and PostgreSQL with an LLM behind it: it reads a CV, sco
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
-  <img align="left" width="110" height="100" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a-black.svg">
+  <img align="left" width="70" hspace="15" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/asto-a-black.svg">
 </picture>
 
 ### asto-portfolio.ru
