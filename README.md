@@ -129,31 +129,15 @@ More than two years of independent client work alongside everything else: an e-c
 
 <div align="center">
 
-### How I work
+### About me
 
 </div>
 
 <div align="justify">
 
-Python and PostgreSQL are where I'm most fluent: pandas, Selenium, psycopg2, requests, FastAPI, plus the Google Sheets and Telegram Bot APIs. On the web, TypeScript with Next.js and React. For LLM work, the OpenAI and Anthropic APIs — function calling, structured output, prompt caching, token cost accounting and agent orchestration. Infrastructure day to day: Git, Linux, SSH, Docker, my own VPS.
+Python and PostgreSQL by default, TypeScript with Next.js on the web, the OpenAI and Anthropic APIs for anything LLM-shaped — agent orchestration, structured output and token cost accounting included. I build with Claude Code, Cursor and ChatGPT, but they speed up the typing, not the thinking: the architecture, and the reason behind it, stay mine.
 
-I use Claude Code, Cursor and ChatGPT while building, and I also ship LLM features as products. The distinction matters to me: an assistant speeds up the typing, it doesn't choose the architecture and it doesn't excuse me from understanding what shipped.
-
-</div>
-
----
-
-<div align="center">
-
-### Where I am
-
-</div>
-
-<div align="justify">
-
-Fourth-year Product Management student at IThub College, which is a useful second lens: most of my work starts as a business problem rather than a ticket. My English is a work in progress — I read it comfortably, speaking it is the part I'm still building.
-
-I'm looking for Business Automation, Data Automation or AI Integration work, ideally somewhere I own a whole loop rather than isolated tasks.
+Fourth-year Product Management student at IThub College — a useful second lens, since most of what I build starts as a business problem, not a ticket. Looking for Business Automation, Data Automation or AI Integration work, ideally somewhere I get to own a whole loop instead of isolated tasks.
 
 </div>
 
