@@ -132,7 +132,7 @@ More than two years of independent client work alongside everything else: integr
 ### Contact
 
 <a href="https://asto-portfolio.ru/gh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg?v=3"></a>&nbsp;&nbsp;
-<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg?v=3"></a>&nbsp;&nbsp;
+<a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg?v=4"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg?v=3"></a>&nbsp;&nbsp;
 <a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg?v=3"></a>
 
