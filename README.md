@@ -15,11 +15,9 @@
 
 <div align="justify">
 
-I build business automation on top of AI agents, at work and in my own projects. Mostly analytics and client-facing platforms.
+I build business-process automation on top of AI agents, both at work and in my own projects, mostly around analytics and client-facing platforms. Over three years in the industry: almost a year and a half at a trading company and more than two years of independent work with clients.
 
-Over three years in the industry: almost a year and a half at a trading company, plus more than two years of freelance work with clients.
-
-I'm a fourth-year Product Management student at IThub College, so I usually start a task from the business problem, not from the code. Right now I'm moving from plugging in ready-made models to designing my own agent systems.
+I'm a fourth-year Product Management student at IThub College. That gives me a second lens: most of my tasks start as a business problem rather than a ticket. Right now I'm moving from integrating off-the-shelf models toward designing my own agentic systems.
 
 </div>
 
@@ -39,15 +37,13 @@ I'm a fourth-year Product Management student at IThub College, so I usually star
 
 ### Sena
 
-[Presentation](https://asto-portfolio.ru/sena/)
+[Production](https://asto-portfolio.ru/s-gh) · [Repository](https://github.com/AStorozh/Sena)
 
 <br clear="left">
 
 <div align="justify">
 
-A personal AI assistant that lives on my MacBook. I talk to it through Telegram, an Android app or by voice. A coordinator hands tasks to three agents (browser, computer, code), and three background workers (judge, night cleanup, ears) run on their own.
-
-It runs on my own agent loop without a framework, with retries, model fallbacks and loop guards. Memory combines full-text search (SQLite FTS5) and vector search. Speech recognition and the wake word run locally, live conversation goes through Gemini Live, and Claude does the thinking. 1,500+ automated tests.
+A personal AI assistant on my MacBook (Python), reachable from Telegram, Android and voice. A Claude-based coordinator delegates tasks to 3 agents (browser, computer, code), while 3 more work in the background (judge, night cleanup, ears). Everything runs on my own agentic loop with no framework: retries, fallback between models, loop guards. Memory is hybrid: SQLite+FTS5 and vector search via reciprocal rank fusion. The voice pipeline is hybrid too: speech recognition and the wake word run locally (whisper.cpp), while live dialogue goes through Gemini Live. 1,500+ automated tests.
 
 </div>
 
@@ -59,15 +55,13 @@ It runs on my own agent loop without a framework, with retries, model fallbacks 
 
 ### Luma
 
-[Presentation](https://asto-portfolio.ru/luma/)
+[Production](https://asto-portfolio.ru/l-gh) · [Repository](https://github.com/AStorozh/Luma)
 
 <br clear="left">
 
 <div align="justify">
 
-A personal system for tasks, money, food and workouts: a Mac app (Electron) and an Android app (Capacitor) on TypeScript and Next.js. The data lives in a local database (PGlite) on the Mac and leaves it only if you turn on the Claude chat or the Google Sheets mirror.
-
-The AI agent has 131 tools in one registry, available through the chat, a REST API and my own MCP server, so Claude Code and Cursor can work with it too. The agent sees a log of its own past actions in the chat history, so it doesn't forget what it has already done. 3,200+ automated tests.
+A personal operating system for life on TypeScript/Next.js: a Mac app (Electron) and a mobile app (Capacitor). Data lives in an embedded local Postgres (PGlite) and never leaves the Mac, except for the Claude chat and the Google Sheets mirror, both optional. The AI advisor on the Claude API reaches 131 tools through a single registry (chat, REST, my own MCP server) and works with Claude Code and Cursor. A log of tool calls is injected into the chat history so the model doesn't forget its own actions.
 
 </div>
 
@@ -79,15 +73,13 @@ The AI agent has 131 tools in one registry, available through the chat, a REST A
 
 ### HIREFLOW
 
-[Production](https://hire-flow.website)
+[Production](https://asto-portfolio.ru/h-gh) · [Repository](https://github.com/AStorozh/Hire-flow)
 
 <br clear="left">
 
 <div align="justify">
 
-A job search assistant for hh.ru on Python and FastAPI. It reads a résumé, scores vacancies from 0 to 100 with reasons and drafts a cover letter. Batch scoring made matching about 51% cheaper and cut input tokens by 74%. Quality is checked on an eval suite with an LLM judge.
-
-I also distilled the LLM scores into a small local ranking model, which is optional and off by default. An Agent API lets other AI assistants use the service, with key permissions (read, generate, write) and rate limits.
+An LLM job-matching service on Python/FastAPI: résumé → hh.ru vacancy scoring → cover letter. Batched LLM scoring (OpenAI API) cut matching cost by about 51% and input tokens by 74%. Prompt contracts are checked in CI, and the full eval suite runs locally. I distilled the LLM's scores into a local ranking model and validated it on a held-out set; it is turned on by a setting. A REST Agent API for external assistants, with key permissions and rate limits.
 
 </div>
 
@@ -99,15 +91,13 @@ I also distilled the LLM scores into a small local ranking model, which is optio
 
 ### asto-portfolio.ru
 
-[Production](https://asto-portfolio.ru)
+[Production](https://asto-portfolio.ru/a-gh) · [Repository](https://github.com/AStorozh/asto-portfolio)
 
 <br clear="left">
 
 <div align="justify">
 
-My portfolio site on Next.js and PostgreSQL with an AI assistant for recruiters. It answers in text and by voice (OpenAI Realtime API) and can search the web. Tool calls are protected against SSRF, and web content is marked as untrusted.
-
-A separate private API lets my AI agent edit the site's content, with a dry run, an audit log and rollback. I also built the admin panel and self-hosted analytics with bot filtering. The site runs on my own VPS behind nginx and PM2.
+A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A voice assistant on the OpenAI Realtime API, web search, my own CMS admin. Tool calling is protected against SSRF, and web content is marked as untrusted to resist prompt injection. A separate private API lets an autonomous AI agent edit the site's content by itself, with a dry-run mode, an audit trail and rollback. Self-hosted analytics with bot filtering, my own VPS behind nginx and PM2.
 
 </div>
 
@@ -123,9 +113,7 @@ A separate private API lets my AI agent edit the site's content, with a dry run,
 
 <div align="justify">
 
-I built an automation system for a marketplace seller from scratch. A Python and Selenium pipeline downloads seller reports in parallel and updates about 16 metrics every few minutes: orders, stock, finances, fines and ads. The data goes to PostgreSQL and Google Sheets.
-
-Claude replies to customer reviews and passes risky ones to a person. I also built a module that finds the same product at competitors by photo (SigLIP2: 89% vs 79% for CLIP), 18 Telegram bots for alerts, team data and reports, and an online store on Next.js for the company's new line of business.
+Designed an automation system for a marketplace seller from scratch. An ETL pipeline on Python and Selenium downloads seller reports in parallel through 20 browser profiles. It updates ~16 metrics (orders, stock, finances, fines, ads) every few minutes with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) replies to customer reviews automatically. A separate ML module on visual embeddings (SigLIP2) finds the same product cheaper at competitors from a photo, with ~89% accuracy against 79% for CLIP. 18 Telegram bots for alerts, data intake from the team and reports. In parallel, I launched a separate online store on Next.js for the company's second line of business.
 
 </div>
 
@@ -133,7 +121,7 @@ Claude replies to customer reviews and passes risky ones to a person. I also bui
 
 <div align="justify">
 
-More than two years of client work: integrations, scripts, Telegram bots and spreadsheet automations. Later I ran whole projects with small teams: education platforms, travel services and online stores.
+More than two years of independent client work alongside everything else: integrations, scripts, Telegram bots and custom spreadsheet automations, and later running whole projects with small teams (education platforms, travel services, online stores).
 
 </div>
 
@@ -143,7 +131,7 @@ More than two years of client work: integrations, scripts, Telegram bots and spr
 
 ### Contact
 
-<a href="https://asto-portfolio.ru"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg?v=3"></a>&nbsp;&nbsp;
+<a href="https://asto-portfolio.ru/gh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-site.svg?v=3"></a>&nbsp;&nbsp;
 <a href="https://t.me/artemiistorozhevskikh"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-telegram.svg?v=3"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/artemii-storozhevskikh/"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-linkedin.svg?v=3"></a>&nbsp;&nbsp;
 <a href="mailto:astorozhevskikh@gmail.com"><img width="44" height="44" src="https://raw.githubusercontent.com/AStorozh/AStorozh/main/assets/icons/contact-email.svg?v=3"></a>
