@@ -15,7 +15,7 @@
 
 <div align="justify">
 
-I build business-process automation on top of AI agents, both at work and in my own projects, mostly around analytics and client-facing platforms. Over three years in the industry: almost a year and a half at a trading company and more than two years of independent work with clients.
+I build business-process automation on top of AI agents, both at work and in my own projects, mostly around analytics and client-facing platforms. Over four years in the industry: almost a year and a half at a trading company and more than two years of independent work with clients.
 
 I'm a fourth-year Product Management student at IThub College. That gives me a second lens: most of my tasks start as a business problem rather than a ticket. Right now I'm moving from integrating off-the-shelf models toward designing my own agentic systems.
 
