@@ -15,9 +15,11 @@
 
 <div align="justify">
 
-I build business-process automation on top of AI agents — both at work and in my own projects, mostly around analytics and client-facing platforms. Over three years in the industry: a year in a trading company, plus two years before that working independently with clients.
+I build business automation on top of AI agents, at work and in my own projects. Mostly analytics and client-facing platforms.
 
-Fourth-year Product Management student at IThub College — a second lens that makes most of my tasks start as a business problem rather than a ticket. Right now I'm moving from integrating off-the-shelf models toward designing my own agentic systems.
+Over three years in the industry: almost a year and a half at a trading company, plus more than two years of freelance work with clients.
+
+I'm a fourth-year Product Management student at IThub College, so I usually start a task from the business problem, not from the code. Right now I'm moving from plugging in ready-made models to designing my own agent systems.
 
 </div>
 
@@ -43,7 +45,9 @@ Fourth-year Product Management student at IThub College — a second lens that m
 
 <div align="justify">
 
-A personal AI assistant on my MacBook, reachable from Telegram, Android and voice. A coordinator hands work to 3 agents (browser, computer, code), and 3 background workers (judge, night cleanup, ears) run on their own. Everything runs on my own agentic loop with no framework: retries, model fallbacks, loop guards. Memory is hybrid: SQLite+FTS5 plus vector search via reciprocal rank fusion. Speech recognition, the wake word and the fallback voice run locally (whisper.cpp, Piper, openWakeWord); live conversation goes through Gemini Live, while Claude does the thinking. 1,500+ automated tests.
+A personal AI assistant that lives on my MacBook. I talk to it through Telegram, an Android app or by voice. A coordinator hands tasks to three agents (browser, computer, code), and three background workers (judge, night cleanup, ears) run on their own.
+
+It runs on my own agent loop without a framework, with retries, model fallbacks and loop guards. Memory combines full-text search (SQLite FTS5) and vector search. Speech recognition and the wake word run locally, live conversation goes through Gemini Live, and Claude does the thinking. 1,500+ automated tests.
 
 </div>
 
@@ -61,7 +65,9 @@ A personal AI assistant on my MacBook, reachable from Telegram, Android and voic
 
 <div align="justify">
 
-A personal operating system for life on TypeScript/Next.js: a Mac app (Electron) and mobile (Capacitor). Data lives in an embedded local Postgres (PGlite). Data stays on the Mac; only the optional Claude chat and the optional two-way Google Sheets mirror send anything out. The AI advisor reaches 131 tools through one registry — chat, REST, my own MCP server — compatible with Claude Code and Cursor. A log of tool calls is injected into the chat history so the model doesn't forget its own actions.
+A personal system for tasks, money, food and workouts: a Mac app (Electron) and an Android app (Capacitor) on TypeScript and Next.js. The data lives in a local database (PGlite) on the Mac and leaves it only if you turn on the Claude chat or the Google Sheets mirror.
+
+The AI agent has 131 tools in one registry, available through the chat, a REST API and my own MCP server, so Claude Code and Cursor can work with it too. The agent sees a log of its own past actions in the chat history, so it doesn't forget what it has already done. 3,200+ automated tests.
 
 </div>
 
@@ -73,11 +79,15 @@ A personal operating system for life on TypeScript/Next.js: a Mac app (Electron)
 
 ### HIREFLOW
 
+[Production](https://hire-flow.website)
+
 <br clear="left">
 
 <div align="justify">
 
-An LLM-based job-matching service on Python/FastAPI: résumé → hh.ru vacancy scoring → cover letter. Batched LLM scoring (OpenAI API) cut matching cost by ~51% and input tokens by ~74%. Prompt contracts run in CI; the full eval suite runs locally on recorded answers. Distilled the LLM's scores into a small local ranking model, validated on a held-out set; it ships behind a feature flag. A REST Agent API lets external assistants use it, with scope-based keys (read / generate / write), rate limits and idempotent paid calls.
+A job search assistant for hh.ru on Python and FastAPI. It reads a résumé, scores vacancies from 0 to 100 with reasons and drafts a cover letter. Batch scoring made matching about 51% cheaper and cut input tokens by 74%. Quality is checked on an eval suite with an LLM judge.
+
+I also distilled the LLM scores into a small local ranking model, which is optional and off by default. An Agent API lets other AI assistants use the service, with key permissions (read, generate, write) and rate limits.
 
 </div>
 
@@ -95,7 +105,9 @@ An LLM-based job-matching service on Python/FastAPI: résumé → hh.ru vacancy 
 
 <div align="justify">
 
-A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A voice assistant on the OpenAI Realtime API, web search, a CMS admin I built myself. Tool calling has an SSRF guard, and web content is marked as untrusted to resist prompt injection. A separate private API lets an autonomous AI agent edit the site's own content — with a dry-run mode, an audit trail and rollback. Self-hosted analytics with bot filtering, own VPS behind nginx and PM2.
+My portfolio site on Next.js and PostgreSQL with an AI assistant for recruiters. It answers in text and by voice (OpenAI Realtime API) and can search the web. Tool calls are protected against SSRF, and web content is marked as untrusted.
+
+A separate private API lets my AI agent edit the site's content, with a dry run, an audit log and rollback. I also built the admin panel and self-hosted analytics with bot filtering. The site runs on my own VPS behind nginx and PM2.
 
 </div>
 
@@ -111,7 +123,9 @@ A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A vo
 
 <div align="justify">
 
-Designed an automation system for a marketplace seller from scratch. A Python/Selenium ETL pipeline downloads seller reports in parallel through 20 browser profiles. It updates ~16 metrics (orders, stock, finances, fines, ads), refreshed every few minutes with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) automatically replies to customer reviews. Built a module that finds the same product at competitors by photo (SigLIP2: 89% vs 79% for CLIP). 18 Telegram bots for alerts, data intake from the team and reports. In parallel, launched a separate online store on Next.js for the company's second line of business.
+I built an automation system for a marketplace seller from scratch. A Python and Selenium pipeline downloads seller reports in parallel and updates about 16 metrics every few minutes: orders, stock, finances, fines and ads. The data goes to PostgreSQL and Google Sheets.
+
+Claude replies to customer reviews and passes risky ones to a person. I also built a module that finds the same product at competitors by photo (SigLIP2: 89% vs 79% for CLIP), 18 Telegram bots for alerts, team data and reports, and an online store on Next.js for the company's new line of business.
 
 </div>
 
@@ -119,7 +133,7 @@ Designed an automation system for a marketplace seller from scratch. A Python/Se
 
 <div align="justify">
 
-More than two years of independent client work alongside everything else: integrations, scripts, Telegram bots and custom spreadsheet automations, plus running projects with small teams (education platforms, travel services, online stores).
+More than two years of client work: integrations, scripts, Telegram bots and spreadsheet automations. Later I ran whole projects with small teams: education platforms, travel services and online stores.
 
 </div>
 
