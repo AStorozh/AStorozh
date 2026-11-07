@@ -37,13 +37,13 @@ Fourth-year Product Management student at IThub College — a second lens that m
 
 ### Sena
 
-[Production](#) · [Repository](#)
+[Presentation](https://asto-portfolio.ru/sena/)
 
 <br clear="left">
 
 <div align="justify">
 
-A personal AI assistant on my MacBook, reachable from Telegram, Android and voice. A coordinator delegates to 6 agents — browser, terminal, code, memory, judging — through my own agentic loop with no framework: retries, model fallbacks, loop guards. Memory is hybrid: SQLite+FTS5 plus vector search via reciprocal rank fusion. The voice pipeline runs fully locally (llama.cpp, whisper.cpp). 1,500+ automated tests.
+A personal AI assistant on my MacBook, reachable from Telegram, Android and voice. A coordinator hands work to 3 agents (browser, computer, code), and 3 background workers (judge, night cleanup, ears) run on their own. Everything runs on my own agentic loop with no framework: retries, model fallbacks, loop guards. Memory is hybrid: SQLite+FTS5 plus vector search via reciprocal rank fusion. Speech recognition, the wake word and the fallback voice run locally (whisper.cpp, Piper, openWakeWord); live conversation goes through Gemini Live, while Claude does the thinking. 1,500+ automated tests.
 
 </div>
 
@@ -55,13 +55,13 @@ A personal AI assistant on my MacBook, reachable from Telegram, Android and voic
 
 ### Luma
 
-[Production](#) · [Repository](#)
+[Presentation](https://asto-portfolio.ru/luma/)
 
 <br clear="left">
 
 <div align="justify">
 
-A personal operating system for life on TypeScript/Next.js: a Mac app (Electron) and mobile (Capacitor). Data lives in an embedded local Postgres (PGlite) and never leaves the device, aside from real-time sync with Google Sheets. The AI advisor reaches 121 tools through one registry — chat, REST, my own MCP server — compatible with Claude Code and Cursor. A log of tool calls is injected into the chat history so the model doesn't forget its own actions.
+A personal operating system for life on TypeScript/Next.js: a Mac app (Electron) and mobile (Capacitor). Data lives in an embedded local Postgres (PGlite). Data stays on the Mac; only the optional Claude chat and the optional two-way Google Sheets mirror send anything out. The AI advisor reaches 131 tools through one registry — chat, REST, my own MCP server — compatible with Claude Code and Cursor. A log of tool calls is injected into the chat history so the model doesn't forget its own actions.
 
 </div>
 
@@ -73,13 +73,11 @@ A personal operating system for life on TypeScript/Next.js: a Mac app (Electron)
 
 ### HIREFLOW
 
-[Production](#) · [Repository](#)
-
 <br clear="left">
 
 <div align="justify">
 
-An LLM-based job-matching service on Python/FastAPI: résumé → hh.ru vacancy scoring → cover letter. Batched LLM scoring (OpenAI API) cut matching cost by about a third. Every prompt change runs through an eval gate in CI. Distilled the LLM's scores into a small local ranking model and validated it on a held-out set before turning it on. A REST Agent API lets external assistants use it, with scope-based permissions and prompt-injection defenses.
+An LLM-based job-matching service on Python/FastAPI: résumé → hh.ru vacancy scoring → cover letter. Batched LLM scoring (OpenAI API) cut matching cost by ~51% and input tokens by ~74%. Prompt contracts run in CI; the full eval suite runs locally on recorded answers. Distilled the LLM's scores into a small local ranking model, validated on a held-out set; it ships behind a feature flag. A REST Agent API lets external assistants use it, with scope-based keys (read / generate / write), rate limits and idempotent paid calls.
 
 </div>
 
@@ -91,13 +89,13 @@ An LLM-based job-matching service on Python/FastAPI: résumé → hh.ru vacancy 
 
 ### asto-portfolio.ru
 
-[Production](#) · [Repository](#)
+[Production](https://asto-portfolio.ru)
 
 <br clear="left">
 
 <div align="justify">
 
-A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A voice assistant on the OpenAI Realtime API, web search, a CMS admin I built myself. Tool calling is guarded against SSRF and prompt injection on every request. A separate private API lets an autonomous AI agent edit the site's own content — with a dry-run mode, an audit trail and rollback. Self-hosted analytics with bot filtering, own VPS behind nginx and PM2.
+A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A voice assistant on the OpenAI Realtime API, web search, a CMS admin I built myself. Tool calling has an SSRF guard, and web content is marked as untrusted to resist prompt injection. A separate private API lets an autonomous AI agent edit the site's own content — with a dry-run mode, an audit trail and rollback. Self-hosted analytics with bot filtering, own VPS behind nginx and PM2.
 
 </div>
 
@@ -113,7 +111,7 @@ A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A vo
 
 <div align="justify">
 
-Designed an automation system for an e-commerce business on Wildberries from scratch. A Python/Selenium ETL pipeline works around the marketplace's bot defenses through 20 Chrome profiles. It updates roughly 20 data categories (orders, stock, finances, fines, ads) every minute with no human involvement — into PostgreSQL and Google Sheets. An LLM (Claude API) automatically replies to customer reviews. A separate ML module on visual embeddings (SigLIP2) finds the same product listed cheaper by a competitor from a photo — about 89% accuracy against 79% for a baseline model. 18 Telegram bots replace manual spreadsheet checks with instant alerts. In parallel, launched a separate e-commerce platform on Next.js for the company's second line of business.
+Designed an automation system for a marketplace seller from scratch. A Python/Selenium ETL pipeline downloads seller reports in parallel through 20 browser profiles. It updates ~16 metrics (orders, stock, finances, fines, ads), refreshed every few minutes with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) automatically replies to customer reviews. Built a module that finds the same product at competitors by photo (SigLIP2: 89% vs 79% for CLIP). 18 Telegram bots for alerts, data intake from the team and reports. In parallel, launched a separate online store on Next.js for the company's second line of business.
 
 </div>
 
@@ -121,7 +119,7 @@ Designed an automation system for an e-commerce business on Wildberries from scr
 
 <div align="justify">
 
-More than two years of independent client work alongside everything else: an e-commerce storefront and admin panel on Next.js, Telegram bots for shift tracking, reporting and alerts, competitor price monitoring, and a number of Google Sheets and Excel automations that quietly gave people back a few hours a week.
+More than two years of independent client work alongside everything else: integrations, scripts, Telegram bots and custom spreadsheet automations, plus running projects with small teams (education platforms, travel services, online stores).
 
 </div>
 
