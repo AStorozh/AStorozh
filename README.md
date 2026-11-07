@@ -73,7 +73,7 @@ A personal operating system for life on TypeScript/Next.js: a Mac app (Electron)
 
 ### HIREFLOW
 
-[Production](https://asto-portfolio.ru/h-gh) · [Repository](https://github.com/AStorozh/Hire-flow)
+[Production](https://hire-flow.website/) · [Repository](https://github.com/AStorozh/Hire-flow)
 
 <br clear="left">
 
