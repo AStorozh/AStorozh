@@ -113,7 +113,7 @@ A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A vo
 
 <div align="justify">
 
-Designed an automation system for a marketplace seller from scratch. An ETL pipeline on Python and Selenium downloads seller reports in parallel through 20 browser profiles. It updates ~16 metrics (orders, stock, finances, fines, ads) every few minutes with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) replies to customer reviews automatically. A separate ML module on visual embeddings (SigLIP2) finds the same product cheaper at competitors from a photo, with ~89% accuracy against 79% for CLIP. 18 Telegram bots for alerts, data intake from the team and reports. In parallel, I launched a separate online store on Next.js for the company's second line of business.
+Designed an automation system for a marketplace seller from scratch. An ETL pipeline on Python and Selenium downloads seller reports in parallel through 20 browser profiles. It recalculates ~170 metrics for every product (orders, stock, finances, fines, ads) every few minutes with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) replies to customer reviews automatically. A separate ML module on visual embeddings (SigLIP2) finds the same product cheaper at competitors from a photo, with ~89% accuracy against 79% for CLIP. 18 Telegram bots for alerts, data intake from the team and reports. In parallel, I launched a separate online store on Next.js for the company's second line of business.
 
 </div>
 
