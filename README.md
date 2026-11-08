@@ -15,7 +15,7 @@
 
 <div align="justify">
 
-I build business-process automation on top of AI agents, both at work and in my own projects, mostly around analytics and client-facing platforms. Over four years in the industry: almost a year and a half at a trading company and more than two years of independent work with clients.
+I build business-process automation on top of AI agents, both at work and in my own projects, mostly around analytics and client-facing platforms. Over four years in the industry: almost a year and a half at a trading company and almost four years of independent work with clients.
 
 I'm a fourth-year Product Management student at IThub College. That gives me a second lens: most of my tasks start as a business problem rather than a ticket. Right now I'm moving from integrating off-the-shelf models toward designing my own agentic systems.
 
@@ -113,7 +113,7 @@ A portfolio site on Next.js/PostgreSQL with an AI assistant for recruiters. A vo
 
 <div align="justify">
 
-Designed an automation system for a marketplace seller from scratch. An ETL pipeline on Python and Selenium downloads seller reports in parallel through 20 browser profiles. It recalculates ~170 metrics for every product (orders, stock, finances, fines, ads) every few minutes with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) replies to customer reviews automatically. A separate ML module on visual embeddings (SigLIP2) finds the same product cheaper at competitors from a photo, with ~89% accuracy against 79% for CLIP. 18 Telegram bots for alerts, data intake from the team and reports. In parallel, I launched a separate online store on Next.js for the company's second line of business.
+Designed an automation system for a marketplace seller from scratch. An ETL pipeline on Python and Selenium downloads seller reports in parallel through 20 browser profiles. It recalculates ~170 metrics for every product (orders, stock, finances, fines, ads) every minute with little human involvement, into PostgreSQL and Google Sheets. An LLM (Claude API) replies to customer reviews automatically. A separate ML module on visual embeddings (SigLIP2) finds the same product cheaper at competitors from a photo, with ~89% accuracy against 79% for CLIP. 18 Telegram bots for alerts, data intake from the team and reports. In parallel, I launched a separate online store on Next.js for the company's second line of business.
 
 </div>
 
@@ -121,7 +121,7 @@ Designed an automation system for a marketplace seller from scratch. An ETL pipe
 
 <div align="justify">
 
-More than two years of independent client work alongside everything else: integrations, scripts, Telegram bots and custom spreadsheet automations, and later running whole projects with small teams (education platforms, travel services, online stores).
+Almost four years of independent client work alongside everything else: integrations, scripts, Telegram bots and custom spreadsheet automations, and later running whole projects with small teams (education platforms, travel services, online stores).
 
 </div>
 
